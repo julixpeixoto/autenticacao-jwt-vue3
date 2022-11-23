@@ -1,4 +1,8 @@
-# comandas-frontend-vue
+# Exemplo de autenticação JWT com Vue 3
+
+## Requerimens
+
+* Node 16
 
 ## Project setup
 ```
